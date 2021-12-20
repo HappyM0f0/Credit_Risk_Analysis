@@ -11,31 +11,43 @@ The following was completed using a credit card credit dataset from LendingClub
     - BalancedRandomForestClassifier and EasyEnsembleClassifier
 
 ## Results: 
+<br/>
+
 **Naive Random Oversampling** 
 - Accuracy score: 0.629
 - high_risk: precision is about 1% only with 57% sensitivity which makes a F1 of 2%
 - low_risk: precision is almost 100% with a sensitivity of 68%
 ![nro](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/nro.png)
+<br/>
+
 **SMOTE**
 - Accuracy score: 0.627
 - high_risk: precision is about 1% only with 62% sensitivity which makes a F1 of 2%
 - low_risk: precision is almost 100% with a sensitivity of 63%.
 ![smote](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/smote.png)
+<br/>
+
 **ClusterCentroid (Undersampling)**
 - Accuracy score: 0.51
 - high_risk: precision is about 1% only with 59% sensitivity which makes a F1 of 1%
 - low_risk: precision is almost 100% with a sensitivity of 43%.
 ![cc](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/cc.png)
+<br/>
+
 **SMOTEENN (combination)**
 - Accuracy score: 0.51
 - high_risk: precision is about 1% only with 70% sensitivity which makes a F1 of 2%
 - low_risk: precision is almost 100% with a sensitivity of 61%.
 ![smoteenn](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/smoteenn.png)
+<br/>
+
 **Balanced Random Forest Classifier**
 - Accuracy score: 0.79
 - high_risk: precision is about 4% only with 67% sensitivity which makes a F1 of 7%
 - low_risk: precision is almost 100% with a sensitivity of 91%.
 ![BRF](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/BRF.png)
+<br/>
+
 **Easy Ensemble AdaBoost**
 - Accuracy score: 0.93
 - high_risk: precision is about 7% only with 91% sensitivity which makes a F1 of 14%
