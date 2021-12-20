@@ -10,7 +10,8 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     - Accuaracy score:
     - Precision:
     - Sensitivity/recall: 
-- ![nro](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/nro.png)
+<br>
+![nro](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/nro.png)
 - SMOTE
     - Accuaracy score:
     - Precision:
