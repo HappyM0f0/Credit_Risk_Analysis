@@ -55,4 +55,4 @@ The following was completed using a credit card credit dataset from LendingClub
 ![EEC](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/eec.png)
 
 ## Summary: 
-All models used to perform credit risk analysis show weak precision with high risk. The EasyEnsembleClassifier model shows a recall of 91% and detects the highest amount of high-risk individuals at 7%. However, the low precision would categorize some low-risk credits as high-risk, negatively impacting the bank's credit strategy and affecting revenue by missing credit opportunities. I cannot recommend any models for use as the precision and F1 scores are to low for a positive impact.
+All models used to perform credit risk analysis show weak precision with high risk. The EasyEnsembleClassifier model shows a recall of 91% and detects the highest amount of high-risk individuals at 7%. However, the low precision would categorize some low-risk credits as high-risk, negatively impacting the bank's credit strategy and affecting revenue by missing credit opportunities. I would recommend the Easy Ensemble algorithm as it would provide the lowest number of profiles needing review at 979.
