@@ -10,33 +10,32 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     - Accuaracy score:
     - Precision:
     - Sensitivity/recall: 
-<br>
-![nro](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/nro.png)
+![nro](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/nro1.png)
 - SMOTE
     - Accuaracy score:
     - Precision:
     - Sensitivity/recall:
-- ![smote](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/smote.png)
+![smote](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/smote1.png)
 - ClusterCentroid (Undersampling)
     - Accuaracy score:
     - Precision:
     - Sensitivity/recall:
-- ![cc](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/cc.png)
+![cc](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/cc1.png)
 - SMOTEENN (combination)
     - Accuaracy score:
     - Precision:
     - Sensitivity/recall:
-- ![smoteenn](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/smoteenn.png)
+![smoteenn](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/smoteenn1.png)
 - Balanced Random Forest Classifier
     - Accuaracy score:
     - Precision:
     - Sensitivity/recall:
-- ![BRF](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/BRF.png)
+![BRF](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/BRF1.png)
 - Easy Ensemble AdaBoost
     - Accuaracy score:
     - Precision:
     - Sensitivity/recall:
-- ![EEC](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/eec.png)
+![EEC](https://github.com/HappyM0f0/Credit_Risk_Analysis/blob/main/Resources/eec1.png)
 
 ## Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
